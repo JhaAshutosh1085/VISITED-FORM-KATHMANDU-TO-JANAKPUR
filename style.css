@@ -1,0 +1,49 @@
+ *{
+    padding: 0;
+    margin: 0;
+} 
+ .image{
+    background-image: url("https://i.pinimg.com/originals/1b/a9/b0/1ba9b0214d33c8b21d0c2e76ec8c784e.jpg");
+    
+} 
+.container{
+    max-width: 80%;
+    padding: 10px;
+    margin:auto;
+}
+.container h1,p{ 
+    text-align: center;
+    font-size:4opx;
+    font-style: italic;
+}
+input,textarea{
+    width: 80%;
+    margin: 11px;
+    padding: 7px;
+    font-size: 25px;
+}
+.btn{
+    margin: auto;
+    background-color:darkgoldenrod;
+    padding:10px;
+    border-radius: 14px;
+
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.submitmsg{
+    color:beige;
+    font-size: 28px;
+}
+h1{
+    color:antiquewhite;
+}
+p{
+    color:aquamarine;
+    font-size: larger;
+}
+
